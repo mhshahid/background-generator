@@ -7,7 +7,7 @@ const array = [
     items: ["ball", "book", "pen"]
   },
   {
-    username: "becky",
+    username: "beck",
     team: "blue",
     score: 10,
     items: ["tape", "backpack", "pen"]
